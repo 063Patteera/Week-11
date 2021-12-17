@@ -75,3 +75,6 @@
 - capture หน้าจอของ  Visual Studio ใส่ไว้แทนภาพด้านล่างนี้ด้วย
 
 <img src = "./images/Fig-3.32b.png">
+
+
+![image](https://user-images.githubusercontent.com/92082157/146607213-a0235adc-73c8-4834-93b7-f294f077df6b.png)
